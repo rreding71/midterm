@@ -1,0 +1,10 @@
+---
+#5:30 Section
+###Ryan Reding
+###October 15,2017
+#####Here is some arithmetic:
+
+x<-5
+y<-6
+x^2+y^2
+
